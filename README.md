@@ -1,4 +1,4 @@
-# employeehive
+# employee tracker
 
 A simple Flutter project to add employee details.
 
